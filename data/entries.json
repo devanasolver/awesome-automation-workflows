@@ -1,0 +1,378 @@
+[
+  {
+    "repo": "crewAIInc/crewAI",
+    "category": "ai",
+    "description": "Framework for orchestrating role-playing AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "category": "ai",
+    "description": "Library for building stateful, multi-step agents as graphs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "langgenius/dify",
+    "category": "ai",
+    "description": "Platform for building LLM apps with workflows and RAG.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "category": "browser",
+    "description": "Make websites accessible for AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "browserless/browserless",
+    "category": "browser",
+    "description": "Headless browser service for automation and scraping.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "cypress-io/cypress",
+    "category": "browser",
+    "description": "Fast browser testing and automation tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "microsoft/playwright",
+    "category": "browser",
+    "description": "Reliable end-to-end testing and automation across browsers.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "microsoft/playwright-mcp",
+    "category": "browser",
+    "description": "MCP server that lets assistants drive a browser with Playwright.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "puppeteer/puppeteer",
+    "category": "browser",
+    "description": "JavaScript API to control Chrome and Firefox.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "category": "browser",
+    "description": "Browser automation framework and ecosystem.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "apache/airflow",
+    "category": "engine",
+    "description": "Platform to author, schedule and monitor workflows.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "argoproj/argo-workflows",
+    "category": "engine",
+    "description": "Container-native workflow engine for Kubernetes.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "conductor-oss/conductor",
+    "category": "engine",
+    "description": "Orchestration engine for microservices and workflows.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "category": "engine",
+    "description": "Orchestrator for data assets and pipelines.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "hatchet-dev/hatchet",
+    "category": "engine",
+    "description": "Background task and workflow platform.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "inngest/inngest",
+    "category": "engine",
+    "description": "Event-driven durable functions and workflows.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "kestra-io/kestra",
+    "category": "engine",
+    "description": "Event-driven orchestration platform with a declarative YAML approach.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "category": "engine",
+    "description": "Workflow orchestration for Python data and automation jobs.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "spotify/luigi",
+    "category": "engine",
+    "description": "Python module for building complex batch pipelines.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "temporalio/temporal",
+    "category": "engine",
+    "description": "Durable execution platform for reliable workflows.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "eclipse-mosquitto/mosquitto",
+    "category": "home",
+    "description": "Open-source MQTT message broker.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "home-assistant/core",
+    "category": "home",
+    "description": "Open-source home automation that puts local control first.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ioBroker/ioBroker",
+    "category": "home",
+    "description": "Integration platform for the Internet of Things.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "openhab/openhab-core",
+    "category": "home",
+    "description": "Vendor-neutral home automation platform.",
+    "license": "EPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "airbytehq/airbyte",
+    "category": "integration",
+    "description": "Data integration platform with many connectors.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "apache/camel",
+    "category": "integration",
+    "description": "Integration framework with many connectors.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "apache/nifi",
+    "category": "integration",
+    "description": "Automate data flow between systems.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "dlt-hub/dlt",
+    "category": "integration",
+    "description": "Python library for loading data from many sources.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mage-ai/mage-ai",
+    "category": "integration",
+    "description": "Tool for building and running data pipelines.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "meltano/meltano",
+    "category": "integration",
+    "description": "Declarative, code-first data integration engine.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "category": "nocode",
+    "description": "Open-source no-code automation, an alternative to Zapier.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "automatisch/automatisch",
+    "category": "nocode",
+    "description": "Open-source Zapier alternative for business automation.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-02-11"
+  },
+  {
+    "repo": "huginn/huginn",
+    "category": "nocode",
+    "description": "Build agents that watch the web and act on your behalf.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "category": "nocode",
+    "description": "Visual workflow automation with hundreds of integrations. Fair-code license with limits.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "node-red/node-red",
+    "category": "nocode",
+    "description": "Low-code, flow-based programming for hardware and APIs.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "windmill-labs/windmill",
+    "category": "nocode",
+    "description": "Turn scripts into workflows, apps and internal tools.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AutoHotkey/AutoHotkey",
+    "category": "rpa",
+    "description": "Scripting language for desktop automation on Windows.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "autokey/autokey",
+    "category": "rpa",
+    "description": "Desktop automation utility for Linux.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-07"
+  },
+  {
+    "repo": "robocorp/rpaframework",
+    "category": "rpa",
+    "description": "Open-source libraries and tools for robotic process automation.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "robotframework/robotframework",
+    "category": "rpa",
+    "description": "Generic automation framework for acceptance testing and RPA.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "agronholm/apscheduler",
+    "category": "scheduler",
+    "description": "Advanced Python scheduler for in-process jobs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "celery/celery",
+    "category": "scheduler",
+    "description": "Distributed task queue for Python.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "citusdata/pg_cron",
+    "category": "scheduler",
+    "description": "Run periodic jobs inside Postgres.",
+    "license": "PostgreSQL",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-08"
+  },
+  {
+    "repo": "go-co-op/gocron",
+    "category": "scheduler",
+    "description": "Job scheduling library for Go.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-29"
+  },
+  {
+    "repo": "hibiken/asynq",
+    "category": "scheduler",
+    "description": "Simple, reliable distributed task queue in Go.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-22"
+  },
+  {
+    "repo": "sidekiq/sidekiq",
+    "category": "scheduler",
+    "description": "Background jobs for Ruby.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "taskforcesh/bullmq",
+    "category": "scheduler",
+    "description": "Message queue and job processing for Node.js and Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  }
+]

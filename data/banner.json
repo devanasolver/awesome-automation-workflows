@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "TRIGGER",
+  "WORKFLOW",
+  "CRON",
+  "WEBHOOK",
+  "NODE",
+  "RETRY",
+  "QUEUE",
+  "ZAP",
+  "PIPELINE",
+  "RPA",
+  "SCRIPT",
+  "DAG",
+  "JOB",
+  "SCHEDULE",
+  "API",
+  "FLOW"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Automation and Workflo",
+  "ws"
+ ],
+ "title_size": 88,
+ "sub1": "WORKFLOWS  |  NO-CODE  |  RPA",
+ "sub2": "SCHEDULING  |  BROWSERS  |  AI",
+ "foot": "Open-source automation software, each checked for license and activity"
+}
