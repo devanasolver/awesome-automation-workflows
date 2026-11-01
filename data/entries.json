@@ -374,5 +374,13 @@
     "license": "MIT",
     "verified": "2026-10-18",
     "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vostride/agent-qa",
+    "category": "browser",
+    "description": "Tests web, Android, and iOS through CLI/MCP with memidex memory and self-improvement; model-provider costs are separate ([website](https://vostride.com); by the author).",
+    "license": "FSL-1.1-ALv2",
+    "verified": "2026-11-01",
+    "last_commit": "2026-11-01"
   }
 ]
