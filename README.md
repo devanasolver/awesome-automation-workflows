@@ -81,6 +81,7 @@ Drive a browser for testing or tasks.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ![stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat&label=%E2%98%85) - MCP server that lets assistants drive a browser with Playwright. _(Apache-2.0)_
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ![stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=flat&label=%E2%98%85) - JavaScript API to control Chrome and Firefox. _(Apache-2.0)_
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) ![stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat&label=%E2%98%85) - Browser automation framework and ecosystem. _(Apache-2.0)_
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) ![stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat&label=%E2%98%85) - Tests web, Android, and iOS through CLI/MCP with memidex memory and self-improvement; model-provider costs are separate ([website](https://vostride.com); by the author). _(FSL-1.1-ALv2)_
 
 ## Desktop and RPA
 

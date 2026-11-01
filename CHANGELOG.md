@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add agent-qa for web and mobile QA with persistent memory and self-improvement.
+
 ## 2026-10-18
 
 - First version: 47 verified repos in 8 categories.
